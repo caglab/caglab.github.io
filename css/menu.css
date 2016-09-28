@@ -1,0 +1,40 @@
+#menu {
+	float:left;
+	clear:left;
+	width:180px;
+	background-color:FFFFFF;
+	position:relative;
+	text-align: center;
+	margin:auto auto;
+}
+.menuButton {
+	margin-top:10px;
+	margin-left:10px;
+	display:block;
+	width: 160px;
+	height: 31px;
+	overflow:hidden;
+	float:left;
+	clear:both;
+}
+.menuButton:hover {
+	display:block;
+	background-position: left bottom;		
+}
+.menuLink {
+	display:block;
+	width:inherit;
+	height:inherit;
+}
+#aboutButton {
+	background-image:url('../img/buttons/home_button.png');
+}
+#peopleButton {
+	background-image:url('../img/buttons/people_button.png');
+}
+#pubsButton {
+	background-image:url('../img/buttons/pubs_button.png');
+}
+#resButton {
+	background-image:url('../img/buttons/research_button.png');
+}

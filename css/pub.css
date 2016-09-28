@@ -1,0 +1,20 @@
+.pub {
+	margin-top:10px;
+	margin-bottom:10px;
+	font-size:12px;
+}
+.pub_auth{
+}
+.pub_yr{
+}
+.pub_jrnl{
+	font-style:italic;
+}
+.yr_title {
+	font-size:20px;	
+}
+#pub_list {
+clear:both;
+float:left;
+width:720px;
+}

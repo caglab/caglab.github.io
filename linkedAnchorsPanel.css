@@ -1,0 +1,50 @@
+.infoblock {
+	width:100%;
+	float:left;
+	clear:both;
+}
+#toolinfotoc {
+	background:#FFFFFF;
+	text-align:right;
+	padding-right:10px;
+	width:130px;
+}
+#toolinfotoc li {
+	font-size:14px;
+	list-style: none;
+	width:130px;
+	height:20px;
+}
+#toolinfotoc a {
+	display:block;
+	background-color:#888800;
+	border-bottom: 2px solid #FFFFFF;
+	color: #FFFFFF;
+}
+#toolinfotoc a:hover {
+	background-color: #969696;
+	color: #000000;
+}
+#contentBlock.dyn div.infoblock {
+	height:1px;
+	overflow:hidden;
+}
+#contentBlock.dyn div.show {
+	position:relative;
+	height:auto;
+	overflow:visible;
+	left:0;
+}
+#contentBlock.dyn p.back {
+	display:none;
+}
+#contentBlock.dyn #toolinfotoc {
+	float:left;
+}
+#contentBlock.dyn div.infoblock {
+	margin-left:0px;
+}
+#contentBlock.dyn #toolinfotoc a.current {
+	text-decoration:none;
+	color:#660033;
+}

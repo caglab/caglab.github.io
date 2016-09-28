@@ -1,0 +1,61 @@
+.memb_block {
+	float:left;
+	clear:both;
+	width: 720px;
+}
+.memb_pic_contact {
+	width: 720px;
+	float: left;
+	clear:both;
+}
+.memb_pic {
+	clear:left;
+	float:left;
+	text-align:center;
+}
+.memb_picture {
+	height:200px;
+	clear:left;
+	float:left;
+}
+.memb_contact {
+	float:left;
+	clear:right;
+	height:200px;
+	width:350px;
+	margin-left:20px;
+	margin-top:20px;
+}
+#cag_contact {
+	width:200px;	
+}
+.memb_name {
+	height: 22px;
+	width: 100%;
+	float: left;
+	text-align:left;
+	clear:both;
+	font-size: 20px;
+}
+.memb_title {
+	height: 17px;
+	width: 100%;
+	float: left;
+	text-align:left;
+	clear:both;
+	font-size: 16px;	
+}
+.memb_email {
+	height: 17px;
+	width: 100%;
+	text-align:left;
+	clear:both;
+	float: left;
+	font-size: 16px;
+}
+.memb_descript {
+	width:100%;
+	float:left;
+	clear:both;
+	font-size:14px;
+}
